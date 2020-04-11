@@ -1,6 +1,7 @@
 > ./build  
 > > /css       
 > > > /style.css
+
 > > > /style.css.map
 
 
@@ -13,6 +14,7 @@
 
 > > /js
 > > > /lib.js 
+
 > > > /main.js  
 
 > ./gulpfile.js
