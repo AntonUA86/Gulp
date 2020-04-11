@@ -1,7 +1,9 @@
-> ./build  
+> /build  
 > > /css       
 > > > /style.css
 > > > /style.css.map
+
+
 > > /js
 > > > /script.js
          
